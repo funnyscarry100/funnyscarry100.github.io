@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/sitemap.xml
