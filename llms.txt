@@ -1,0 +1,19 @@
+# llms.txt for Lottery Pattern Analyzer
+
+> Lottery Pattern Analyzer is a free online tool for generating lottery numbers and analyzing number frequency patterns for Powerball, Mega Millions, and EuroMillions.
+
+## Site Information
+- Name: Lottery Pattern Analyzer
+- URL: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/
+
+## Main Pages
+- Home: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/index.html
+- Terms: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/terms.html
+- Privacy: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/privacy.html
+- About: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/about.html
+
+## Core Features
+- Lotto Number Generator (Pattern-Based + Balanced Set)
+- Interactive Frequency Heatmap (Hot/Warm/Cool/Cold)
+- Powerball, Mega Millions, EuroMillions presets
+- Real-Time Statistics (odd/even ratio, high/low ratio, sum range)
