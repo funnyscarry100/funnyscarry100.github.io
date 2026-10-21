@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap for your main site in the subdirectory
+Sitemap: https://funnyscarry100.github.io/Powerball-Mega-Millions-EuroMillions/sitemap.xml
